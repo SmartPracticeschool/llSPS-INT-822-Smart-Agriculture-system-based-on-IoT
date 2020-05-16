@@ -1,0 +1,235 @@
+2020-05-16 12:51:31,772   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:51:34,110   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:51:36,194   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:51:39,138   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:51:41,241   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:51:43,633   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:51:45,682   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:51:48,818   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:51:50,860   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:51:54,041   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:51:56,153   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:51:58,678   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:52:00,739   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:52:03,748   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:52:05,920   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:52:08,897   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:52:10,897   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:52:13,435   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:52:15,598   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:52:18,560   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:52:20,760   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:52:23,833   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:52:25,927   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:52:28,653   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:52:30,817   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:52:33,957   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:52:36,123   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:52:39,353   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:52:41,417   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:52:43,919   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:52:46,010   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:52:49,122   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:52:51,205   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:52:55,839   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:52:58,015   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:53:03,655   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:53:05,928   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:53:09,205   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:53:11,351   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:53:13,688   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:53:15,868   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:53:19,761   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:53:21,894   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:53:24,811   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:53:26,921   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:53:29,862   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:53:32,050   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:53:34,493   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:53:36,541   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:53:40,951   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:53:43,066   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:53:45,964   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:53:48,051   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:53:52,316   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:53:54,426   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:53:57,416   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:53:59,463   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:54:02,685   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:54:04,880   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:54:09,673   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:54:12,889   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:54:15,856   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:54:18,947   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:54:22,732   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:54:25,917   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:54:31,037   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:54:34,225   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:54:37,641   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:54:39,823   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:54:44,650   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:54:47,750   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:54:53,101   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:54:55,193   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:54:59,645   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:55:01,840   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:55:04,260   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:55:06,410   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:55:09,853   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:55:11,974   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:55:16,184   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:55:19,353   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:55:21,536   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:55:23,648   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:55:27,730   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:55:30,955   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:55:37,070   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:55:40,164   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:55:44,687   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:55:47,772   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:55:54,113   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:55:56,126   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:56:01,647   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:56:03,677   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:56:07,904   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:56:10,936   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:56:15,667   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:56:17,706   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:56:21,929   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:56:25,990   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:56:29,600   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:56:32,796   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:56:37,182   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:56:40,595   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:56:44,943   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:56:48,059   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:56:52,413   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:56:55,693   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:56:59,013   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:57:02,104   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:57:07,692   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:57:10,897   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:57:15,691   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:57:19,748   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:57:22,859   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:57:26,016   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:57:31,385   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:57:35,501   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:57:39,855   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:57:42,959   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:57:46,711   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:57:49,768   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:57:54,697   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:57:57,870   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:58:03,849   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:58:06,939   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:58:13,706   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:58:16,683   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:58:22,536   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:58:25,719   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:58:31,168   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:58:34,359   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:58:39,961   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:58:43,005   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:58:49,727   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:58:52,872   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:58:57,675   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:58:59,918   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:59:04,251   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:59:08,597   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:59:12,723   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:59:16,849   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:59:22,570   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:59:25,662   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:59:31,157   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:59:34,197   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:59:39,789   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:59:42,800   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:59:47,728   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:59:51,009   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 12:59:56,146   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 12:59:59,320   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:00:04,492   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:00:08,532   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:00:14,878   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:00:18,000   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:00:23,483   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:00:27,605   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:00:34,544   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:00:38,694   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:00:43,973   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:00:47,132   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:00:53,431   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:00:56,500   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:01:01,933   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:01:06,223   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:01:12,472   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:01:16,594   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:01:21,977   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:01:26,099   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:01:31,687   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:01:34,827   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:01:41,191   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:01:45,379   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:01:52,578   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:01:56,667   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:02:01,948   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:02:06,039   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:02:10,592   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:02:14,770   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:02:21,444   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:02:24,696   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:02:31,897   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:02:36,087   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:02:42,445   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:02:46,730   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:02:52,682   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:02:56,717   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:03:02,084   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:03:05,232   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:03:10,600   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:03:14,538   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:03:19,821   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:03:23,910   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:03:30,450   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:03:34,678   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:03:39,513   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:03:43,678   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:03:49,957   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:03:54,074   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:03:59,245   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:04:03,471   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:04:10,579   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:04:14,668   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:04:21,421   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:04:25,563   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:04:32,007   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:04:35,171   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:04:41,642   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:04:45,722   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:04:52,588   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:04:56,727   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:05:03,089   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:05:07,329   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:05:13,877   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:05:18,190   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:05:24,841   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:05:28,996   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:05:35,518   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:05:39,731   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:05:46,969   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:05:51,267   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:05:58,633   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:06:02,787   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:06:09,095   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:06:13,140   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:06:19,630   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:06:23,795   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:06:29,051   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:06:33,293   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:06:39,303   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:06:42,366   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:06:47,786   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:06:51,901   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
+2020-05-16 13:06:58,773   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 13:07:02,876   ibmiotf.device.Client      INFO    Connected successfully: d:ewpf9v:nodemcu:123456789
